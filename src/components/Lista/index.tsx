@@ -3,7 +3,7 @@ import Item from './Item'
 import style from './Lista.module.scss'
 
 interface Props {
-  tasks: ITask[],
+  tasks: ITask[]
   selectTask: (selectedTask: ITask) => void
 }
 
