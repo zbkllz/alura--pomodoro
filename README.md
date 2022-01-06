@@ -1,4 +1,4 @@
-# PomoDori 🏗🚧
+# PomoDori 🍅🏗🚧
 
 This is the final project of the course React Fundamentals in Typescript by [Alura Cursos](https://www.alura.com.br/)
 
